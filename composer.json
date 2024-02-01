@@ -1,0 +1,12 @@
+{
+  "name": "rjtrench/Week5_SDEV328",
+  "authors": [
+    {
+      "name": "richardtrenchard",
+      "email": "rjtrenchard@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
